@@ -6,15 +6,15 @@
   "authors": [
     {
       "name": "DFreds",
-      "url": "https://github.com/DFreds",
+      "url": "https://github.com/KVFIR",
       "discord": "DFreds#1238"
     }
   ],
-  "url": "https://github.com/DFreds/dfreds-pocket-change",
-  "license": "https://github.com/DFreds/dfreds-pocket-change/blob/main/LICENSE",
-  "readme": "https://github.com/DFreds/dfreds-pocket-change/blob/main/README.md",
-  "bugs": "https://github.com/DFreds/dfreds-pocket-change/issues",
-  "changelog": "https://github.com/DFreds/dfreds-pocket-change/releases",
+  "url": "https://github.com/KVFIR/dfreds-pocket-change",
+  "license": "https://github.com/KVFIR/dfreds-pocket-change/blob/main/LICENSE",
+  "readme": "https://github.com/KVFIR/dfreds-pocket-change/blob/main/README.md",
+  "bugs": "https://github.com/KVFIR/dfreds-pocket-change/issues",
+  "changelog": "https://github.com/KVFIR/dfreds-pocket-change/releases",
   "flags": {},
   "version": "2.0.2",
   "minimumCoreVersion": "0.8.6",
@@ -42,8 +42,8 @@
   "system": [],
   "dependencies": [],
   "socket": false,
-  "manifest": "https://github.com/DFreds/dfreds-pocket-change/releases/latest/download/module.json",
-  "download": "https://github.com/DFreds/dfreds-pocket-change/releases/download/v2.0.2/dfreds-pocket-change.zip",
+  "manifest": "https://github.com/KVFIR/dfreds-pocket-change/releases/latest/download/module.json",
+  "download": "https://github.com/KVFIR/dfreds-pocket-change/releases/download/v2.0.2/dfreds-pocket-change.zip",
   "protected": false,
   "coreTranslation": false
 }
