@@ -1,6 +1,6 @@
 {
   "name": "dfreds-pocket-change",
-  "title": "DFreds Pocket Change",
+  "title": "DFreds & KVFIR Pocket Change",
   "description": "Automatically adds money to NPC character sheets when dropped on the canvas based on the DMG's individual treasures table. This is best used with Loot Sheet NPC 5e.",
   "author": "DFreds",
   "authors": [
@@ -32,7 +32,7 @@
   "packs": [
     {
       "name": "dfreds-pocket-change-macros",
-      "label": "DFreds Pocket Change Macros",
+      "label": "DFreds & KVFIR Pocket Change Macros",
       "path": "packs/macros.db",
       "module": "dfreds-pocket-change",
       "entity": "Macro",
@@ -42,8 +42,8 @@
   "system": [],
   "dependencies": [],
   "socket": false,
-  "manifest": "https://github.com/DFreds/dfreds-pocket-change/releases/latest/download/module.json",
-  "download": "https://github.com/DFreds/dfreds-pocket-change/releases/download/v2.0.2/dfreds-pocket-change.zip",
+  "manifest": "https://github.com/KVFIR/dfreds-pocket-change/releases/latest/download/module.json",
+  "download": "https://github.com/KVFIR/dfreds-pocket-change/releases/download/v2.0.2/dfreds-pocket-change.zip",
   "protected": false,
   "coreTranslation": false
 }
